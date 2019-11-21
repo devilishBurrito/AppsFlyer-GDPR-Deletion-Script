@@ -1,7 +1,5 @@
 # AppsFlyer-GDPR-Deletion-Script
-A script that takes a CSV list of devices and will send the deletion requests to AppsFlyer and store the request ID should you need to check on the deletion status
-
-This custom script is NOT intended as a solution to offer clients. This is something exclusively for one-off requests or GDPR testing.  
+A script that takes a CSV list of devices and will send the deletion requests to AppsFlyer and stores the request ID should you need to check on the deletion status
 
 ### Requirements of using this script:
 1. Python 3
